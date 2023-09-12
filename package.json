@@ -5,6 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
+    "start": "nodemon index.js"
   },
   "author": "Yaasiin Ahmed",
   "license": "ISC",
